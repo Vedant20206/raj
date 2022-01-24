@@ -1,5 +1,6 @@
 {
 	"ip":"NULL_SMP23.aternos.me",
-	"port": "52117",
-	"name": "poklan"
+	"port": "52117"
+	"name": "afkbot1",
+	"auto-night-skip":"true"
 }
